@@ -31,7 +31,7 @@ Repeat after me… Literally! 🔄
 - `09-even-sum` (Difficulty: Beginner)  
 - `10-fibonacci-sequence` (Difficulty: Intermediate)
 - `11-is-prime` (Difficulty: Intermediate)
-- `12-prime-numbers-to-n` (Difficulty: Intermediate)  
+- `12-prime-numbers-to-n` (Difficulty: Intermediate)
 
 ---
 
@@ -44,40 +44,48 @@ Dive into the world of collections!
 - `17-second-max-in-array` (Difficulty: Intermediate)  
 - `18a-swap-two-numbers` (Difficulty: Beginner)  
 - `18b-sort-array` (Difficulty: Intermediate)  
+- `19-maximum-subarray-sum` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 5: Map**  
+### **Chapter 5: Binary Search**  
+Find me if you can... 🔍
+- `20-find-number-in-array` (Difficulty: Easy) 
+- `21-square-root` (Difficulty: Intermediate)
+
+---
+
+### **Chapter 6: Map**  
 Unleash the power of maps (not the Google kind, though)! 🗺️  
-- `19-number-frequency-map` (Difficulty: Intermediate)
+- `22-number-frequency-map` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 6: Struct**  
+### **Chapter 7: Struct**  
 Organize your data like a pro! 🛠️  
-- `20-find-index-with-map` (Difficulty: Intermediate)
-- `21-user-info-by-email` (Difficulty: Intermediate)
+- `23-find-index-with-map` (Difficulty: Intermediate)
+- `24-user-info-by-email` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 7: String**  
+### **Chapter 8: String**  
 String along with these challenges! 🎸  
-- `22-check-palindrome` (Difficulty: Intermediate)
-- `23-encryption-decryption` (Difficulty: Intermediate)
+- `25-check-palindrome` (Difficulty: Intermediate)
+- `26-encryption-decryption` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 8: Go Routine**  
+### **Chapter 9: Go Routine**  
 Parallelism! Do more in less time. 🏃‍♂️🏃‍♀️  
-- `24-check-prime-with-goroutine` (Difficulty: Advanced) 
-- `25-prime-numbers-goroutine` (Difficulty: Advanced)
+- `27-check-prime-with-goroutine` (Difficulty: Advanced) 
+- `28-prime-numbers-goroutine` (Difficulty: Advanced)
 
 ---
 
-### **Chapter 9: Scratch Server**  
+### **Chapter 10: Scratch Server**  
 Build your own mini web app! 🌐  
-- `26-http-server-bookstore` (Difficulty: Advanced)
-- `27-gin-server-bookstore` (Difficulty: Advanced) 
+- `29-http-server-bookstore` (Difficulty: Advanced)
+- `30-gin-server-bookstore` (Difficulty: Advanced) 
 
 ---
 
