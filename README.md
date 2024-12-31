@@ -1,6 +1,6 @@
-# Beginner Bytes 🍪  
+# Let's Go 🚀   
 
-Welcome to **Beginner Bytes** - This collection is built to help my favorite co-adventurer (a.k.a my wife ❤️) to explore the basics, maybe even laugh at a bug or two.  
+Welcome to **Let's Go** - This collection is built to help my favorite co-adventurer (a.k.a my wife ❤️) to explore the basics, 🧩 solve puzzles, and maybe even laugh at a bug 🐛 or two!
 
 ---
 
@@ -89,5 +89,3 @@ Build your own mini web app! 🌐
 - `31-gin-server-bookstore` (Difficulty: Advanced) 
 
 ---
-
-Keep `Go`ing fun with programming! 🎉  
