@@ -36,56 +36,63 @@ Repeat after me… Literally! 🔄
 
 ---
 
-### **Chapter 4: Array**  
+### **Chapter 4: Function**  
+Breaking Problems into Bite-Sized Pieces 🍰
+- `14-find-factorial-of-n` (Difficulty: Beginner)
+- `15-prime-factors-of-n` (Difficulty: Intermediate)
+
+---
+
+### **Chapter 5: Array**  
 Dive into the world of collections!  
-- `14-print-array` (Difficulty: Beginner)  
-- `15-even-numbers-in-array` (Difficulty: Beginner)    
-- `16-find-index-in-array` (Difficulty: Intermediate)
-- `17-max-in-array` (Difficulty: Intermediate)  
-- `18-second-max-in-array` (Difficulty: Intermediate)  
-- `19a-swap-two-numbers` (Difficulty: Beginner)  
-- `19b-sort-array` (Difficulty: Intermediate)  
-- `20-maximum-subarray-sum` (Difficulty: Intermediate)
+- `16-print-array` (Difficulty: Beginner)  
+- `17-even-numbers-in-array` (Difficulty: Beginner)    
+- `18-find-index-in-array` (Difficulty: Intermediate)
+- `19-max-in-array` (Difficulty: Intermediate)  
+- `20-second-max-in-array` (Difficulty: Intermediate)  
+- `21a-swap-two-numbers` (Difficulty: Beginner)  
+- `21b-sort-array` (Difficulty: Intermediate)  
+- `22-maximum-subarray-sum` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 5: Binary Search**  
+### **Chapter 6: Binary Search**  
 Find me if you can... 🔍
-- `21-find-number-in-array` (Difficulty: Easy) 
-- `22-square-root` (Difficulty: Intermediate)
+- `23-find-number-in-array` (Difficulty: Easy) 
+- `24-square-root` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 6: Map**  
+### **Chapter 7: Map**  
 Unleash the power of maps (not the Google kind, though)! 🗺️  
-- `23-number-frequency-map` (Difficulty: Intermediate)
+- `25-number-frequency-map` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 7: Struct**  
+### **Chapter 8: Struct**  
 Organize your data like a pro! 🛠️  
-- `24-find-index-with-map` (Difficulty: Intermediate)
-- `25-user-info-by-email` (Difficulty: Intermediate)
+- `26-find-index-with-map` (Difficulty: Intermediate)
+- `27-user-info-by-email` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 8: String**  
+### **Chapter 9: String**  
 String along with these challenges! 🎸  
-- `26-check-palindrome` (Difficulty: Intermediate)
-- `27-encryption-decryption` (Difficulty: Intermediate)
+- `28-check-palindrome` (Difficulty: Intermediate)
+- `29-encryption-decryption` (Difficulty: Intermediate)
 
 ---
 
-### **Chapter 9: Go Routine**  
+### **Chapter 10: Go Routine**  
 Parallelism! Do more in less time. 🏃‍♂️🏃‍♀️  
-- `28-check-prime-with-goroutine` (Difficulty: Advanced) 
-- `29-prime-numbers-goroutine` (Difficulty: Advanced)
+- `30-check-prime-with-goroutine` (Difficulty: Advanced) 
+- `31-prime-numbers-goroutine` (Difficulty: Advanced)
 
 ---
 
-### **Chapter 10: Scratch Server**  
+### **Chapter 11: Scratch Server**  
 Build your own mini web app! 🌐  
-- `30-http-server-bookstore` (Difficulty: Advanced)
-- `31-gin-server-bookstore` (Difficulty: Advanced) 
+- `32-http-server-bookstore` (Difficulty: Advanced)
+- `33-gin-server-bookstore` (Difficulty: Advanced) 
 
 ---
